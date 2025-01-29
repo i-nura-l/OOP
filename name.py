@@ -12,4 +12,4 @@ class Book:  # is templete how
         print('The title of the book:', self.title, 'The author:', self.author)
 
     def info(self):
-        print('The code:', self.code, 'The price is', self.price)
+        print('The ISBN:', self.code, 'The price is', self.price)
