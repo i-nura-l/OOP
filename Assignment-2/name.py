@@ -1,4 +1,4 @@
-class Book:  # is templete how
+class Book:  # is template
 
     # constructor - special method to initialize attributes
     def __init__(self, title, author, code=None, price=None):
