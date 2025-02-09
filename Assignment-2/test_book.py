@@ -1,4 +1,4 @@
-from name import Book
+from book import Book
 if  __name__ == "__main__":
 
   b1 = Book("Demon Slayer", 'Nothing', price='700c')
