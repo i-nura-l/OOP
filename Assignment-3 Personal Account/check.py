@@ -15,7 +15,6 @@ if __name__ == '__main__':
     print("Transaction History:")
     account.print_transaction_history()
 
-
     print()
     account.set_account_holder("New Holder")
     print(account,'\n')

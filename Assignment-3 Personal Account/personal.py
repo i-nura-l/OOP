@@ -24,7 +24,7 @@ class PersonalAccount:
 
     def print_transaction_history(self):
         if not self.transactions:
-            print("No transactions available.")
+            print("No transactions available.\n")
         else:
             for transaction in self.transactions:
                 print(transaction)
