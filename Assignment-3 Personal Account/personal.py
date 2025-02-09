@@ -1,7 +1,7 @@
 from amount import Amount
 
 class PersonalAccount:
-    def __init__(self, account_number:int, account_holder:str):
+    def __init__(self, account_number:int, account_holder:str, __balance=0.0):
         self.account_number = account_number
         self.account_holder = account_holder
         self.__balance = 0.0
