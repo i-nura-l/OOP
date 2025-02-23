@@ -6,6 +6,7 @@ This project implements a simple user management system using object-oriented pr
 1. **User** - Represents a user with personal details.
 2. **UserService** - Manages multiple users.
 3. **UserUtil** - Provides utility functions such as generating user IDs, passwords, and emails.
+4. **TestClasses** - Verifies that your code works as expected. It helps catch errors, bugs, and unintended behavior before they cause real problems.
 
 ## Classes and Attributes
 
