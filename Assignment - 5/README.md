@@ -59,21 +59,7 @@ Handles shopping cart operations.
   - `print_items()`: Displays cart contents.
   - `checkout()`: Completes purchase and updates stock.
 
-## Running the Program
-### Prerequisites
-- Python 3.x installed.
-
-### Steps to Run
-1. Clone the repository:
-   ```sh
-   git clone <repository-url>
-   cd electronic-shopping-cart
-   ```
-2. Run the script:
-   ```sh
-   python main.py
-   ```
-3. Follow the menu options:
+Follow the menu options:
    - `1` Show available devices.
    - `2` Add a device to the cart.
    - `3` Show cart items.
