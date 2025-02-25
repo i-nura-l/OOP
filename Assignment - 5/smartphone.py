@@ -8,7 +8,8 @@ class Smartphone(Device):
         self.battery_life = battery_life
 
     def __str__(self):
-        return f'Smartphone: {self.name}, Price: {self.price}, Screen Size: {self.screen_size}, Battery Life: {self.battery_life} years'
+        return f'{super().__str__()}, Screen Size: {self.screen_size} inches, Battery Life: {self.battery_life} hours \n'
+
     def make_call(self):
         print('Smartphone can make a call')
 
