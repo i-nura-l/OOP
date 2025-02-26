@@ -20,6 +20,9 @@ if __name__ == '__main__':
     smartphone.apply_discount(20)
     smartphone.reduce_stock(10)
     shopping_cart.add_device(device=smartphone, amount=50)
+    print(smartphone.make_call())
+    print(smartphone.install_app())
+    smartphone.display_info()
     print(smartphone)
 
     laptop = Laptop('Mac', 2000, 10, 20, 8, 'M3')

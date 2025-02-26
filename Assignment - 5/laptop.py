@@ -7,7 +7,7 @@ class Laptop(Device):
         self.processor = processor
 
     def __str__(self):
-        return f'{super().__str__()}, RAM: {self.ram}GB, Processor speed: {self.processor}GHz \n'
+        return f'{super().__str__()}, RAM: {self.ram}GB, Processor speed: {self.processor}GHz.\n'
 
     def run_program(self):
         return "Running a program"
