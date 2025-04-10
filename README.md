@@ -1,4 +1,4 @@
-# 🧠 Object-Oriented Programming (OOP) Assignments
+# 🧠 Object-Oriented Programming (OOP) Assignments (Overview)
 
 This repository contains various assignments that demonstrate key concepts of Object-Oriented Programming using Python and PyQt.
 
@@ -24,6 +24,9 @@ A basic calculator app using MVC pattern with PyQt. Supports standard arithmetic
 
 ### 🗃️ Assignment - 8: Employee Database (CRUD with SQLite)
 Python app for managing employee data using OOP and SQLite. Includes `Employee` and `EmployeeDAO` classes for full CRUD operations. Tested via a `main.py` script. Includes table screenshots and sample outputs.
+
+### 📐 Assignment - 9: 3D Shape Modeling with Abstraction
+Demonstrates abstraction and polymorphism through a hierarchy of 3D shapes (`Sphere`, `Cylinder`, and `Cube`) inheriting from an abstract base class `Shape3D`. Each shape implements its own method for calculating surface area and volume.
 
 ---
 
