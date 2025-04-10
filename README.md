@@ -1,4 +1,4 @@
-# 🧠 Object-Oriented Programming (OOP) Assignments (Overview)
+# 🧠 Object-Oriented Programming (OOP) Assignments 
 
 This repository contains various assignments that demonstrate key concepts of Object-Oriented Programming using Python and PyQt.
 
